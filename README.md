@@ -49,14 +49,17 @@ Navigation bar with logo and menu links.
 ### 2. Featured News
 
 A large hero-style section displaying the main featured article.
+![alt feature](images/feature.jpg)
 
 ### 3. Latest News
 
 Card-based layout displaying recent news updates.
+![alt latest](images/latest.jpg)
 
 ### 4. Hot News
 
 Grid-based section highlighting trending topics.
+![alt hot](images/hot.jpg)
 
 ### 5. Masonry Layout
 
@@ -65,10 +68,12 @@ Dynamic grid displaying image-based stories.
 ### 6. News Gallery
 
 Custom CSS grid layout showing a collection of images.
+![alt gallery](images/gallery.jpg)
 
 ### 7. Footer
 
 Simple footer with copyright information.
+![alt footer](images/footer.jpg)
 
 ---
 
