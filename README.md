@@ -44,6 +44,8 @@ The website includes several sections commonly found on professional news platfo
 
 Navigation bar with logo and menu links.
 
+![alt header](images/image.png)
+
 ### 2. Featured News
 
 A large hero-style section displaying the main featured article.
